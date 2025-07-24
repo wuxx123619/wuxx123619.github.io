@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Yunsong Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yunsong Wang"
-description              : &description "personal description"
-url                      : https://wuxx123619.github.io
+description              : "a second year graduate student of Hangzhou Dianzi university"
+url                      : https://wuxx123619.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wuxx123619/wuxx123619.io"
 
